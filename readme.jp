@@ -1,0 +1,29 @@
+# Logistics Cost Analysis 📦
+
+This project focuses on analyzing logistics and shipment data using Python (Pandas, Matplotlib, Seaborn) to uncover trends, costs, and delivery insights.
+
+## 📁 Dataset Includes:
+- Shipments (weight, delivery cost, destination, etc.)
+- Customer and Driver details
+- Route and package data
+
+## 🔍 Key Insights:
+- Correlation between shipment weight & delivery cost
+- Cost trends by city/state
+- Driver delivery performance
+
+## 🛠️ Tools Used:
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## 📊 Sample Visuals:
+(Upload and link your graphs here or add screenshots)
+
+## 📁 Files:
+- `logistics_analysis.ipynb`: Full code & EDA
+- `dataset.csv`: Cleaned dataset
+
+---
+
